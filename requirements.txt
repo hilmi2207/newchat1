@@ -12,3 +12,4 @@ tensorflow-cpu==2.8.0
 urllib3==1.26.7
 imutils==0.5.4
 nltk==3.7
+protobuf==3.20.1 
